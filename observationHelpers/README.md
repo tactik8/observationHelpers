@@ -2,6 +2,13 @@
 
 JS library observations
 
+## Location
+
+### Source code
+https://github.com/tactik8/observationHelpers
+
+### repl.it
+https://replit.com/@tactik8/observationHelpers
 
 
 ## Install
